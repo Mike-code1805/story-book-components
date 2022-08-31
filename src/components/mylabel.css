@@ -25,3 +25,13 @@
 .text-tertiary {
   color: #ee6c4d;
 }
+
+.font-monospace {
+  font-family: monospace;
+}
+.font-sans-serif {
+  font-family: sans-serif;
+}
+.font-fantasy {
+  font-family: fantasy;
+}

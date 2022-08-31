@@ -8,6 +8,7 @@ export default {
     size: { control: "select" },
     color: { control: "select" },
     fontColor: { control: "color" },
+    font: { control: "select" },
   },
 } as ComponentMeta<typeof MyLabel>;
 
